@@ -35,7 +35,7 @@ body {
 
 a {
 	text-decoration: none;
-	color: #1883ba;
+	color: #1cbbcf;
 }
 
 h1{
@@ -82,13 +82,13 @@ h2{
 .tabs {
 	width: 100%;
 	height: 31px;
-	background-color: #444;
+	background-color: #fe2c55;
 }
 .tabs li {
 	float:  left;
 	margin: 0;
 	overflow: hidden;
-	background-color: #444;
+	background-color: #fe2c55;
 }
 .tabs li a {
 	display: block;
@@ -250,7 +250,7 @@ code {
 #xheight {
 	float: none;
 	position: absolute;
-	color: #d9f3ff;
+	color: #02f2ea;
 	font-size: 72px;
 	line-height: 90px;
 }
@@ -330,7 +330,7 @@ code {
 /* @group Glyphs */
 
 #glyph_chart div{
-	background-color: #d9f3ff;
+	background-color: #02f2ea;
 	color: black;
 	float: left;
 	font-size: 36px;
@@ -351,7 +351,7 @@ code {
 	display: block;
 	text-align: center;
 	font: bold 9px Arial, sans-serif;
-	background-color: #3a768f;
+	background-color: #fe2c55;
 	width: 100%;
 	color: #fff;
 	padding: 2px 0;
