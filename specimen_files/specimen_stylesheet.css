@@ -250,7 +250,7 @@ code {
 #xheight {
 	float: none;
 	position: absolute;
-	color: #02f2ea;
+	color: #25f4ee;
 	font-size: 72px;
 	line-height: 90px;
 }
@@ -330,7 +330,7 @@ code {
 /* @group Glyphs */
 
 #glyph_chart div{
-	background-color: #02f2ea;
+	background-color: #25f4ee;
 	color: black;
 	float: left;
 	font-size: 36px;
